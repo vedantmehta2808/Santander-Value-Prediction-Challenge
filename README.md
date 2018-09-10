@@ -7,3 +7,4 @@ The training data contains 4992 columns and 4468 rows. This is a absurd dataset 
 
 Santander wants to improve their personalized services provided to the customers based on these transactions done. The company wants to predict the amount or value of the transaction that could be done by the customer. Predicting these transactions will help the company provide a simple but personal service to each of their customers.
 
+Code containing the EDA and predictive analysis can be found [**here**](https://github.com/vedantmehta2808/Santander-Value-Prediction-Challenge/blob/master/Santander-Value-Prediction.ipynb)
